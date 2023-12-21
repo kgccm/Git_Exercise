@@ -1,0 +1,37 @@
+.topIntroduce{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+
+#Git_span{
+    text-align: center;
+    color: brown;
+    background-color: aqua;
+}
+#Command_span{
+    text-align: center;
+    background-color: blanchedalmond;
+    color: blueviolet;
+}
+.topBanner{
+    font-size: medium;
+    background-color: greenyellow;
+    color: darkviolet;
+    text-align: center;
+    padding-right:0%;
+    padding-left: 0%;
+    /* width: fit-content; */
+}
+.main{
+    font-size: small;
+    background-color: bisque;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
