@@ -1,20 +1,23 @@
-.topIntroduce{
+body{
+    text-align: center;
+}
+body .topIntroduce{
     text-align: center;
     font-size: large;
     font-style: italic;
 }
 
-#Git_span{
+body #Git_span{
     text-align: center;
     color: brown;
     background-color: aqua;
 }
-#Command_span{
+body #Command_span{
     text-align: center;
     background-color: blanchedalmond;
     color: blueviolet;
 }
-.topBanner{
+body .topBanner{
     font-size: medium;
     background-color: greenyellow;
     color: darkviolet;
@@ -23,15 +26,18 @@
     padding-left: 0%;
     /* width: fit-content; */
 }
-.main{
+body .main{
     font-size: small;
     background-color: bisque;
 }
-a{
+body a{
     text-decoration: none;
 }
 a:hover{
     background-color: black;
     color: white;
     font-size: larger;
+}
+#gimg{
+    text-align: center;
 }
